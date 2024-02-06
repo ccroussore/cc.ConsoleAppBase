@@ -1,0 +1,10 @@
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\bin\Debug\ConsoleApp_NET_4_Template.exe
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\bin\Debug\ConsoleApp_NET_4_Template.pdb
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\bin\Debug\ConsoleApp_NET_4_Template.xml
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.vbproj.AssemblyReference.cache
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.Resources.resources
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.vbproj.GenerateResource.cache
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.vbproj.CoreCompileInputs.cache
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.exe
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.xml
+D:\BitBucket\_Templates\_cc.ConsoleApp_NET_4\ConsoleApp_NET_4_Template\obj\Debug\ConsoleApp_NET_4_Template.pdb
